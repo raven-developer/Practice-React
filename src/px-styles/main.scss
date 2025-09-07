@@ -1,0 +1,16 @@
+/* Reset */
+@use 'reset';
+@use 'mixins';
+
+/* Variables */
+
+@use 'type';
+
+/* Main Styles */
+/* @use 'default-react';
+@use 'global';
+@use 'header';
+@use 'footer'; */
+@use 'component/index.scss';
+
+/* Specific Component Styles */
