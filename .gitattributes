@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
+# Treat all text files as LF in the repo
 * text=auto
+
+# Specific for JS/HTML/SCSS
+*.js text
+*.jsx text
+*.ts text
+*.tsx text
+*.css text
+*.scss text
+*.html text
